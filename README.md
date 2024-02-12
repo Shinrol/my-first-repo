@@ -1,2 +1,2 @@
-# my-first-repo
+# my-first-repo minor update
 Practive account for learning Git
